@@ -29,7 +29,7 @@ let myTimestamp = Date.now(); // Current timestamp in milliseconds
 
 let newDate = new Date();
 // console.log(newDate.getMonth()); // Current month (0-11, where 0 is January)
-// console.log(newDate.getDate()); // Current day of the month (1-31)
+// console.log(newDate.getDay()); // Current day of the month (1-31)
 // console.log(newDate.getFullYear()); // Current year (4 digits)
 // console.log(newDate.getHours()); // Current hour (0-23)
 // console.log(newDate.getMinutes()); // Current minutes (0-59)
