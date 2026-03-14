@@ -44,7 +44,7 @@ const chai = () => {
 // So in this case, it will refer to the global object in non-strict mode or undefined in strict mode.
 
 // const addTwo =  (num1, num2) => {
-//     return num1 + num2; // Expcit return is not needed in arrow functions with a single expression
+//     return num1 + num2; // Explicit return is not needed in arrow functions with a single expression
 // }
 
 // const addTwo =  (num1, num2) =>   num1 + num2;
