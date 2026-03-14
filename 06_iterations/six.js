@@ -5,6 +5,7 @@
 //          return item
 // })
 // console.log(values);
+// Here in for each it doesnot return anything (undefined).
 
 // In filter we get a call back function and in which every value is accessed and we have to give condition to it and the 
 // condition is true then it will give values.
